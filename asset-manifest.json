@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tesla-Store/static/css/main.038589d5.css",
+    "main.js": "/Tesla-Store/static/js/main.c7b8104b.js",
+    "index.html": "/Tesla-Store/index.html",
+    "main.038589d5.css.map": "/Tesla-Store/static/css/main.038589d5.css.map",
+    "main.c7b8104b.js.map": "/Tesla-Store/static/js/main.c7b8104b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.038589d5.css",
+    "static/js/main.c7b8104b.js"
+  ]
+}
